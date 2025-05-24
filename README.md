@@ -2,6 +2,8 @@
 
 API para consulta de food trucks de São Francisco, desenvolvida com Spring Boot.
 
+Desafio retirado de https://github.com/uber-archive/coding-challenge-tools 
+
 ## Tecnologias Utilizadas
 
 - Java 21
